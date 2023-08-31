@@ -5,8 +5,19 @@
 
 Those are my dotfiles, hope you find something useful here ^^
 
+my setup:
 
-Credits-
-r/unixporn reddit
+|   **Distro**   |                     Arch Linux                      |
+| :------------: | :-------------------------------------------------: |
+|     **WM**     |  Awesome   |
+| **Compositor** |       Picom        |
+|  **Launcher**  |     Rofi |
+|  **Terminal**  | Kitty |
+|   **Shell**    |             Zsh        |
+|   **Editor**   |     Neovim     |
+
+
+> Credits-
+> r/unixporn 
 
 
